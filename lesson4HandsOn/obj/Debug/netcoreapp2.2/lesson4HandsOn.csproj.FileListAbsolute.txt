@@ -1,0 +1,11 @@
+/Users/obiajuluchidi/Desktop/ProgrammingC#/lesson4HandsOn/bin/Debug/netcoreapp2.2/lesson4HandsOn.deps.json
+/Users/obiajuluchidi/Desktop/ProgrammingC#/lesson4HandsOn/bin/Debug/netcoreapp2.2/lesson4HandsOn.runtimeconfig.json
+/Users/obiajuluchidi/Desktop/ProgrammingC#/lesson4HandsOn/bin/Debug/netcoreapp2.2/lesson4HandsOn.runtimeconfig.dev.json
+/Users/obiajuluchidi/Desktop/ProgrammingC#/lesson4HandsOn/bin/Debug/netcoreapp2.2/lesson4HandsOn.dll
+/Users/obiajuluchidi/Desktop/ProgrammingC#/lesson4HandsOn/bin/Debug/netcoreapp2.2/lesson4HandsOn.pdb
+/Users/obiajuluchidi/Desktop/ProgrammingC#/lesson4HandsOn/obj/Debug/netcoreapp2.2/lesson4HandsOn.csprojAssemblyReference.cache
+/Users/obiajuluchidi/Desktop/ProgrammingC#/lesson4HandsOn/obj/Debug/netcoreapp2.2/lesson4HandsOn.csproj.CoreCompileInputs.cache
+/Users/obiajuluchidi/Desktop/ProgrammingC#/lesson4HandsOn/obj/Debug/netcoreapp2.2/lesson4HandsOn.AssemblyInfoInputs.cache
+/Users/obiajuluchidi/Desktop/ProgrammingC#/lesson4HandsOn/obj/Debug/netcoreapp2.2/lesson4HandsOn.AssemblyInfo.cs
+/Users/obiajuluchidi/Desktop/ProgrammingC#/lesson4HandsOn/obj/Debug/netcoreapp2.2/lesson4HandsOn.dll
+/Users/obiajuluchidi/Desktop/ProgrammingC#/lesson4HandsOn/obj/Debug/netcoreapp2.2/lesson4HandsOn.pdb
